@@ -16,10 +16,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "webpack": "^5.88.1"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "css-loader": "^6.8.1",
+    "nodemon": "^2.0.4",
+    "style-loader": "^3.3.3"
   }
 }
